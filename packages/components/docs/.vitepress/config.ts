@@ -25,7 +25,6 @@ export default defineConfig({
         },
         sideBarResolved: (opt) => {
           // 扁平化
-          debugger;
           return opt;
         },
       }),
